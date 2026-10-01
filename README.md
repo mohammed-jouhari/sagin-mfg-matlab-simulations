@@ -136,9 +136,6 @@ If you use this code or the model in your work, please cite the letter:
 }
 ```
 
-GitHub also shows a "Cite this repository" button, generated from
-`CITATION.cff`.
-
 ## License
 
 MIT License. See `LICENSE`.
